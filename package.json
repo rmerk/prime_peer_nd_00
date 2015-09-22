@@ -1,0 +1,15 @@
+{
+  "name": "prime_peer_nd_00",
+  "version": "1.0.0",
+  "description": "Prime Node Group Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Geoffrey & Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
